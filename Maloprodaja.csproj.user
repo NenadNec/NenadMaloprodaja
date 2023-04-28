@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forme\Artikli\frmArtikliLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Artikli\frmIUArtikal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\frmNoviRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\frmOSoftveru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\frmPodesavanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\frmRefundacijaRacuna2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Izvestaji\frmDnevniIzvestaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Izvestaji\frmIzvestajPrometaPodanu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Izvestaji\frmIzvestajZaPrometArtikala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Partneri\frmPartneriLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Pocetna\frmPocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Porudzbenica\frmInsertPorudzbenica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Porudzbenica\frmIzvestajPorudzbenice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Porudzbenica\frmPorudzbeniceLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Racun\frmRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Racun\frmRacunPotvrda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forme\Racun\frmRefundacijaRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
